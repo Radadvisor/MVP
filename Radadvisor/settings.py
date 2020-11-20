@@ -25,7 +25,7 @@ SECRET_KEY = 'g6y!)4c8++(7g!@1l4rea#hjrr!4y_eae8zqv=mq1jya2i*81w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://radadvisor.herokuapp.com', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['radadvisor.herokuapp.com']
 
 
 # Application definition
