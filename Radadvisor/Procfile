@@ -1,1 +1,0 @@
-web: gunicorn radavisor.wsgi --log-file -
