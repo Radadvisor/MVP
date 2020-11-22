@@ -5,7 +5,6 @@ import sys
 
 
 def main():
-    heroku config:set     DISABLE_COLLECTSTATIC=1 Setting DISABLE_COLLECTSTATIC
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Radadvisor.settings')
     try:
         from django.core.management import execute_from_command_line
